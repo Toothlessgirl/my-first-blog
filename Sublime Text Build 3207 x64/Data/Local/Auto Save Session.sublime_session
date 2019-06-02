@@ -24,10 +24,19 @@
 			"buffers":
 			[
 				{
+					"file": "/C/Shany/Djangogirls/blog/forms.py",
+					"settings":
+					{
+						"buffer_size": 158,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
 					"file": "/C/Shany/Djangogirls/blog/urls.py",
 					"settings":
 					{
-						"buffer_size": 184,
+						"buffer_size": 308,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
@@ -36,7 +45,7 @@
 					"file": "/C/Shany/Djangogirls/blog/views.py",
 					"settings":
 					{
-						"buffer_size": 446,
+						"buffer_size": 1461,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
@@ -74,12 +83,12 @@
 			},
 			"file_history":
 			[
+				"/C/Shany/Djangogirls/blog/urls.py",
 				"/C/Shany/Djangogirls/blog/views.py",
 				"/C/Shany/Djangogirls/blog/static/css/blog.css",
 				"/C/Shany/Djangogirls/blog/templates/blog/post_list.html",
 				"/C/Shany/Djangogirls/blog/css/blog.css",
 				"/C/Shany/Djangogirls/mysite/urls.py",
-				"/C/Shany/Djangogirls/blog/urls.py",
 				"/C/Users/Shanyso/Desktop/python_intro.py",
 				"/C/Shany/Djangogirls/mysite/settings.py",
 				"/C/Shany/Djangogirls/blog/models.py",
@@ -88,7 +97,7 @@
 			],
 			"find":
 			{
-				"height": 41.0
+				"height": 51.0
 			},
 			"find_in_files":
 			{
@@ -121,24 +130,52 @@
 			"groups":
 			[
 				{
-					"selected": 1,
+					"selected": 2,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/C/Shany/Djangogirls/blog/urls.py",
+							"file": "/C/Shany/Djangogirls/blog/forms.py",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 184,
+								"buffer_size": 158,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										49,
-										49
+										158,
+										158
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/C/Shany/Djangogirls/blog/urls.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 308,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										306,
+										306
 									]
 								],
 								"settings":
@@ -153,20 +190,20 @@
 							"type": "text"
 						},
 						{
-							"buffer": 1,
+							"buffer": 2,
 							"file": "/C/Shany/Djangogirls/blog/views.py",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 446,
+								"buffer_size": 1461,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										304,
-										304
+										1457,
+										1457
 									]
 								],
 								"settings":
@@ -174,7 +211,7 @@
 									"syntax": "Packages/Python/Python.sublime-syntax"
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 160.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
